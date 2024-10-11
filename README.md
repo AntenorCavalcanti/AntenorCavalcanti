@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AntenorCavalcanti
-- 🌱 I’m currently learning JavaScript/HTML/CSS
 - 😄 Pronouns: he/him
